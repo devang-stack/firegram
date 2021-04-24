@@ -10,7 +10,8 @@
     "framer-motion": "^4.1.9",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "tslib": "^2.2.0"
   },
   "scripts": {
     "start": "react-scripts start",

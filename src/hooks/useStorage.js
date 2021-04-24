@@ -25,7 +25,7 @@ const [url,setUrl] = useState(null);
     }, async()=>{
         const url= await storageRef.getDownloadURL();
            const createdAt =timeStamp();
-        collectionRef.add({url,createdAt});
+        await collectionRef.add({url,createdAt});
         setUrl(url);
     } );
  }, [file]);

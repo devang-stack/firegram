@@ -1,7 +1,7 @@
 # DEVGRAM
 
 ## About Project
- This project is somewhat clone of instagram and currently contain few features of it like uploading Pictures.
+ 'This project is somewhat clone of instagram and currently contain few features of it like uploading Pictures.'
 
 ## Technoligies and Tool's
  This Web App is built in Reactjs,HTML5 and CSS
